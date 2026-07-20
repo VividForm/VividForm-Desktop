@@ -1,2 +1,2 @@
 # VividForm-Desktop
-Professional desktop software for batch image renaming, AI filename suggestions and image workflow automation.
+This repository is used to distribute official VividForm releases. The application source code is not published.
